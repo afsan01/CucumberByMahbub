@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 //Cucumber option:
 //dryRun =true/false
 //feature=feature file path
-//glue= stepDefination path//step defination package name
+//glue= stepDefination path//step definition package name
 //tags= (or="@test,@test1")(and="@test,@test1")(ignore= "-@test"
 //monochrome= true (Display the out put in readable format)
 //format = which format you like to get the output.
